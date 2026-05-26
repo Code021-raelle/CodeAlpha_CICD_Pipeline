@@ -1,0 +1,24 @@
+{
+  "name": "codealpha_cicd_pipeline",
+  "version": "1.0.0",
+  "description": "CI/CD pipeline project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Code021-raelle/CodeAlpha_CICD_Pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Code021-raelle/CodeAlpha_CICD_Pipeline/issues"
+  },
+  "homepage": "https://github.com/Code021-raelle/CodeAlpha_CICD_Pipeline#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

@@ -26,5 +26,5 @@ jobs:
           docker build -t ${{ secrets.DOCKER_USERNAME }}/codealpha-node-app:latest .
 
       - name: Push Docker Image
-          run: |
-            docker push ${{ secrets.DOCKER_USERNAME }}/codealpha-node-app:latest
+        run: |
+          docker push ${{ secrets.DOCKER_USERNAME }}/codealpha-node-app:latest

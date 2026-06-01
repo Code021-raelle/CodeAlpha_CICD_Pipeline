@@ -34,12 +34,14 @@ Developer Push
 
 ## Project Structure
 
+```
 CodeAlpha_CICD_Pipeline/
 ├── app.js
 ├── package.json
 ├── Dockerfile
 ├── .dockerignore
 └── .github/workflows/ci-cd.yml
+```
 
 ## Deployment URL
 
